@@ -1,4 +1,4 @@
-# Mandatory Use of Government-Wide Contracts for Commercial Items
+# Mandatory Use of Government-Wide Contracts for Commercial 
 Government agencies are required to use existing contracts instead of creating new contracts when buying commercial products.
 
 If a product is already available through a government-wide contract, agencies must use that contract.

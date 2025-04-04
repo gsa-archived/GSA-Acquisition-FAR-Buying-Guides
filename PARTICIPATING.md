@@ -80,7 +80,7 @@ We want your feedback! To make the management of our issues something we can do 
 
 ### 0️⃣ **Before You Submit - Run a Quick Search**
 
-- Please do a quick search in the existing issues (both open and closed) to see if someone has already reported the same thing.
+- Using the search tool on the "Issue" page, please do a quick search in the existing issues (both open and closed) to see if someone has already reported the same thing.
     
 - You can add comments to an existing issue if it matches yours.
     

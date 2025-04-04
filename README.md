@@ -22,7 +22,7 @@ We want an open and interactive way to develop this content. GitHub allows us to
 - Track updates and improvements over time.
 
 ## How You Can Participate
-1. Read the content – Explore the guides in this repository.
+1. Read the content – Explore the buying guide content in this repository.
 2. Share feedback – Open an issue or add comments to suggest improvements.
 3. Stay involved – Follow the updates as we refine the content.
 
